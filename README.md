@@ -37,7 +37,7 @@ I care about clear interfaces and practical details: understanding a need, build
 
 ---
 
-<h2 align="center">Selected projects</h2>
+<h2 align="center">Projelerim</h2>
 
 ### Şantiye Defteri — Stock &amp; Costs
 
@@ -76,6 +76,3 @@ A local AI task planner that turns an overwhelming task into manageable steps, w
 
 </details>
 
----
-
-<p align="center"><samp>Stay curious. Keep learning. Build.</samp></p>
