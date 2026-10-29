@@ -34,3 +34,14 @@ I care about clear interfaces and practical details: understanding a need, build
 </p>
 <p align="center"><sub>Also used in my projects: Capacitor · Streamlit · Ollama · ChromaDB · Pandas</sub></p>
 <p align="center"><sub>Blender is part of my current learning journey.</sub></p>
+
+---
+
+<h2 align="center">⌘ Commit Activity</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enesss2463/enesss2463/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enesss2463/enesss2463/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man animation of Enes Yarbas's real GitHub contributions" src="https://raw.githubusercontent.com/enesss2463/enesss2463/output/pacman-contribution-graph-dark.svg" width="100%" />
+  </picture>
+</p>
