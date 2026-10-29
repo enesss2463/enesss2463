@@ -1,16 +1,83 @@
-## Hi there 👋
+<p align="center">
+  <img src="./yin-yang.png" alt="Yin–Yang — a balance of light and shadow, rendered in fine digital particles" width="100%" />
+</p>
 
-<!--
-**enesss2463/enesss2463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Enes Yarbas.</h1>
+<p align="center"><strong>Mobile &amp; Web Developer · Python · Applied AI</strong></p>
+<p align="center"><samp>Merak et. Öğren. Üret.</samp></p>
+<p align="center">Turning ideas into useful applications, one project at a time.</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">About me</h2>
+
+I enjoy turning an idea into something people can use. I build mobile and web applications and explore computer vision, developer tools, and local AI.
+
+I care about clear interfaces and practical details: understanding a need, building a solution, and improving it through feedback.
+
+- **Published:** Şantiye Defteri, an offline-first iPhone app for construction-site records.
+- **Working with:** Python, TypeScript, JavaScript, React, and Next.js.
+- **Exploring:** Blender and 3D modelling.
+
+---
+
+<h2 align="center">Connect</h2>
+<p align="center">
+  <a href="https://enesyarbas.com"><img src="https://img.shields.io/badge/Portfolio-enesyarbas.com-161b22?style=for-the-badge&amp;labelColor=161b22&amp;color=58a6ff" alt="Portfolio: enesyarbas.com" /></a>
+  <a href="https://www.linkedin.com/in/enes-yarbas-064754279/"><img src="https://img.shields.io/badge/LinkedIn-Enes_Yarbas-0a66c2?style=for-the-badge&amp;labelColor=161b22" alt="Enes Yarbas on LinkedIn" /></a>
+</p>
+
+<h2 align="center">Tech stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,git&amp;theme=dark" alt="Python, TypeScript, JavaScript, React, Next.js, Node.js, Git" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,blender&amp;theme=dark" alt="PyTorch, OpenCV, scikit-learn, Blender" />
+</p>
+<p align="center"><sub>Also used in my projects: Capacitor · Streamlit · Ollama · ChromaDB · Pandas</sub></p>
+<p align="center"><sub>Blender is part of my current learning journey.</sub></p>
+
+---
+
+<h2 align="center">Selected projects</h2>
+
+### Şantiye Defteri — Stock &amp; Costs
+
+An offline-first iPhone app for managing construction materials, stock, expenses, supplier balances, and payments. Includes PDF/CSV reports and optional iCloud backup.
+
+`Next.js` `React` `TypeScript` `Capacitor`  
+**[Available on the App Store](https://apps.apple.com/tr/app/id6821754564)**
+
+### SafeGuard Vision
+
+Computer-vision experiments for workplace safety: image/video analysis, helmet detection, and violation reports.
+
+`Python` `OpenCV` `Streamlit` `Roboflow`  
+**[View repository →](https://github.com/enesss2463/safeguard-vision)**
+
+### pysearch
+
+A terminal tool for keyword and semantic code search, with local AI explanations and refactoring suggestions.
+
+`Python` `Ollama` `ChromaDB` `Typer`  
+**[View repository →](https://github.com/enesss2463/pysearch)**
+
+### NextStep
+
+A local AI task planner that turns an overwhelming task into manageable steps, with a focus timer and saved plans. Runs locally with Ollama.
+
+`JavaScript` `Node.js` `Ollama`  
+**[View repository →](https://github.com/enesss2463/nextstep)**
+
+<details>
+<summary>More experiments in AI &amp; data</summary>
+
+- [Pneumonia Detection](https://github.com/enesss2463/pneumonia-detection) — educational chest X-ray classification with PyTorch and ResNet18.
+- [Mobile Price Classification](https://github.com/enesss2463/Mobile_Price_Classification) — comparing models for phone price-segment prediction.
+- [Sport Data Analysis](https://github.com/enesss2463/Sport_Data_Analysis) — data preprocessing and match-outcome modelling on a synthetic dataset.
+
+</details>
+
+---
+
+<p align="center"><samp>Stay curious. Keep learning. Build.</samp></p>
