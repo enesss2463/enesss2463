@@ -3,9 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Enes Yarbas.</h1>
-<p align="center"><strong>Mobile &amp; Web Developer · Python · Applied AI</strong></p>
-<p align="center"><samp>Merak et. Öğren. Üret.</samp></p>
-<p align="center">Turning ideas into useful applications, one project at a time.</p>
+<p align="center"><strong>Mobile &amp; Web Developer</strong></p>
 
 ---
 
